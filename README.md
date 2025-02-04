@@ -1,1 +1,3 @@
-Music player using HTML, CSS and JavaScript that displays all the songs present in the list.With additional features such as playing and pausing the song and going to the next or previous track.
+Developed a Music Player using HTML, CSS, and JavaScript, where user can play, pause, and navigate through a playlist. The application dynamically generates a list of
+songs with their respective images and audio files. Features include a responsive layout with hover effects, background image changes based on the selected song, and
+controls for play/pause, forward, and backward navigation.
